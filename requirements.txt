@@ -10,8 +10,11 @@ greenlet==3.0.3
 idna==3.6
 magic-filter==1.0.12
 multidict==6.0.5
+pillow==10.3.0
 pydantic==2.5.3
 pydantic_core==2.14.6
+pypng==0.20220715.0
+qrcode==7.4.2
 SQLAlchemy==2.0.29
 typing_extensions==4.10.0
 yarl==1.9.4
